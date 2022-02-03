@@ -16,6 +16,11 @@ public class JavaProjectWithGit {
     public static void main(String[] args) {
         System.err.println("First Changes");
         
+        System.out.println("second changes");
+        
+         System.out.println("thirsd changes");
+        
+        
     }
     
 }
